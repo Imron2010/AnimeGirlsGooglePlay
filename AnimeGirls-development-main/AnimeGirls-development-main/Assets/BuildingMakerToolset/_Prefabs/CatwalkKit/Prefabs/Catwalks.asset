@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07dd6f7996e897849b911903d7b01ba9, type: 3}
+  m_Name: Catwalks
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 1988585577835398, guid: ecf8d246db05b9f4796136974bec298b, type: 3}
+  - {fileID: 1711467430675014, guid: 33b6f3c3f2800c449817619c046c9d83, type: 3}
+  - {fileID: 1954678597350468, guid: c5b27e14e6fbac542a671ac1a76e932f, type: 3}
+  - {fileID: 1050045462963694, guid: 879cc7d29e413474f9e331166645c74f, type: 3}
+  - {fileID: 1914383676907730, guid: 4ed29617af42c7a409c82e318f754112, type: 3}
+  - {fileID: 1103959779365030, guid: d7ca72c2d1f81cf48a499cbf475bd21f, type: 3}
+  - {fileID: 1787391666964902, guid: 22c0feb743e8b7d49951848328718169, type: 3}
+  - {fileID: 1598712750561030, guid: 650e8fdde8d1a5b46b1e58a6d4166091, type: 3}
+  - {fileID: 1628091796452612, guid: 36e779936786c79448fb83853e2b8c01, type: 3}
+  - {fileID: 1988585577835398, guid: 35e028a14754d5b47b24ad3c8c9df24e, type: 3}
+  - {fileID: 1711467430675014, guid: c8b016b89e29afd4fa35c1638bfd4edf, type: 3}
+  - {fileID: 1954678597350468, guid: adfe71e1b8f5b3d4b93d56f28cf5b91c, type: 3}
+  - {fileID: 1050045462963694, guid: 31fb054576793fa40954af46366b5aa9, type: 3}
+  - {fileID: 1914383676907730, guid: 6017f6be88b584d46918a8aa17b5ba44, type: 3}
+  - {fileID: 1103959779365030, guid: 61d88000b4fe25e4f84d1033044153b0, type: 3}
+  - {fileID: 1787391666964902, guid: 4f1a9ff5c56bbac41b3ecf0e16ca1978, type: 3}
+  - {fileID: 1598712750561030, guid: 5081f72a41e3a67488d6f0b44a3de065, type: 3}
+  - {fileID: 1628091796452612, guid: 19b7b007b9836c24c94d8132306ebf01, type: 3}
+  - {fileID: 1787391666964902, guid: 6dd5dc04e1383bf48bd971b5ef25acca, type: 3}
